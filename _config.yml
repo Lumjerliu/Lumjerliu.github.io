@@ -45,6 +45,8 @@ defaults:
         layout: "post"
         author: "Lum Jerliu"
 
+incremental: false   #you can disable the watch option in your _config.yml file:(from chatgpt)
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
