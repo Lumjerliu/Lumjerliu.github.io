@@ -4,11 +4,8 @@
 
 layout: home
 ---
-    IMO 2022 & 2023, Mathematics and Computer Science.
-    
-
-  <!-- Welcome to my website.I am Lum Jerliu, a mathathlete from Kosova("insert math olympiad"cv""). My interest are Mathematics and Computer Science. I like to read mostly biographies,history and sci-fi.<a href="https://www.goodreads.com/user/show/138448176-lum-jerliu">goodreads.com/lumjerliu/</a>
-  Here on this site, I aim to blog of things that are important to me and that I want to share with others. I Hope this serves as something valuable to you. Here are  [Other-Websites]("/blog/2024/04/19/Other-Websites/") that I found quite helpful in my development. -->
+  Welcome to my website.I am Lum Jerliu, a mathathlete from Kosova("insert math olympiad"cv""). My interest are Mathematics and Computer Science.I like to read mostly biographies,history and sci-fi.<a href="https://www.goodreads.com/user/show/138448176-lum-jerliu">goodreads.com/lumjerliu/</a>
+  Here on this site, I aim to blog of things that are important to me and that I want to share with others. I Hope this serves as something valuable to you. Here are  [Other-Websites]("/blog/2024/04/19/Other-Websites/") that I found quite helpful in my development.
 
   <!-- Index.markdown file. -->
 
