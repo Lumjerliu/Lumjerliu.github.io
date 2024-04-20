@@ -19,12 +19,14 @@
 - [Project Euler](https://projecteuler.net/)
 
 
-
 ## Mathematics 
 - [Art of Problem Solving](https://artofproblemsolving.com/)
 
 - [Yufei Zhao](https://yufeizhao.com/)
 
 - [Evan Chen](https://web.evanchen.cc/)
+
+## Software I like 
+I can not emphasise more how Obsidian has changed the way I do my work. 
 
 ## Latex and Diagrams
