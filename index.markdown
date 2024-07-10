@@ -4,8 +4,9 @@
 
 layout: home
 ---
-  Welcome to my website.I am Lum Jerliu, a mathathlete from Kosova("insert math olympiad"cv""). My interest are Mathematics and Computer Science.I like to read mostly biographies,history and sci-fi.<a href="https://www.goodreads.com/user/show/138448176-lum-jerliu">goodreads.com/lumjerliu/</a>
-  Here on this site, I aim to blog of things that are important to me and that I want to share with others. I Hope this serves as something valuable to you. Here are  [Other-Websites]("/blog/2024/04/19/Other-Websites/") that I found quite helpful in my development.
+  Welcome to my website! I am Lum Jerliu, a mathlete from Kosovo with a deep passion for Mathematics and Computer Science. I enjoy reading, particularly biographies, history, and science fiction. You can check out my Goodreads profile here.
+
+  On this site, I aim to blog about topics that matter to me and share my insights with others. I hope you find the content valuable. Additionally, here are some other websites that have been instrumental in my personal development.
 
   <!-- Index.markdown file. -->
 

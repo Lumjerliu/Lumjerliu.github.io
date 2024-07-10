@@ -3,6 +3,8 @@
 
 - [Paul graham essays](https://paulgraham.com/articles.html)
 
+- [Terenc Tao](https://terrytao.wordpress.com/)
+
 - [Webcomics](https://xkcd.com/)
 
 - [Quanta Magazine ](https://www.quantamagazine.org/)
@@ -17,6 +19,8 @@
 - [The Missing Semester Of Your CS Education](https://missing.csail.mit.edu/)
 
 - [Project Euler](https://projecteuler.net/)
+
+- [MIT 6.100L Introduction To CS And Programming Using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 
 
 ## Mathematics 
